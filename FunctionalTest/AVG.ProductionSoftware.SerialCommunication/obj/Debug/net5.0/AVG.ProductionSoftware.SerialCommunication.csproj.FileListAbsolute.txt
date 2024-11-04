@@ -1,0 +1,12 @@
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.deps.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\ref\AVG.ProductionSoftware.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\ref\AVG.ProductionSoftware.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\AVG.ProductionSoftware.SerialCommunication.csproj.AssemblyReference.cache

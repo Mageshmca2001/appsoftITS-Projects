@@ -1,0 +1,267 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AVG.ProductionProcess.FinalTesting/1.0.0": {
+        "dependencies": {
+          "Keller.SPM.Communication": "1.0.0",
+          "Keller.SPM.ProcotolGeneration": "1.0.0",
+          "System.IO.Ports": "5.0.0-preview.1.20120.5",
+          "System.Data.SQLite": "1.0.110.0",
+          "System.Data.SQLite.EF6": "1.0.117.0",
+          "System.Data.SQLite.Linq": "1.0.117.0"
+        },
+        "runtime": {
+          "AVG.ProductionProcess.FinalTesting.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0-preview.1.20120.5": {},
+      "Microsoft.Win32.Registry/5.0.0-preview.1.20120.5": {
+        "dependencies": {
+          "System.Security.AccessControl": "5.0.0-preview.1.20120.5",
+          "System.Security.Principal.Windows": "5.0.0-preview.1.20120.5"
+        }
+      },
+      "runtime.linux-arm.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-arm64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-x64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+        "dependencies": {
+          "runtime.linux-arm.runtime.native.System.IO.Ports": "5.0.0-preview.3.20214.6",
+          "runtime.linux-arm64.runtime.native.System.IO.Ports": "5.0.0-preview.3.20214.6",
+          "runtime.linux-x64.runtime.native.System.IO.Ports": "5.0.0-preview.3.20214.6",
+          "runtime.osx-x64.runtime.native.System.IO.Ports": "5.0.0-preview.3.20214.6"
+        }
+      },
+      "runtime.osx-x64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.IO.Ports/5.0.0-preview.1.20120.5": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "5.0.0-preview.1.20120.5",
+          "runtime.native.System.IO.Ports": "5.0.0-preview.3.20214.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Ports.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.12005"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.12005"
+          },
+          "runtimes/osx/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "osx",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.12005"
+          },
+          "runtimes/win/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.12005"
+          }
+        }
+      },
+      "System.Security.AccessControl/5.0.0-preview.1.20120.5": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0-preview.1.20120.5",
+          "System.Security.Principal.Windows": "5.0.0-preview.1.20120.5"
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0-preview.1.20120.5": {},
+      "Keller.SPM.Communication/1.0.0": {
+        "dependencies": {
+          "Keller.SPM.ProcotolGeneration": "1.0.0",
+          "System.IO.Ports": "5.0.0-preview.1.20120.5"
+        },
+        "runtime": {
+          "Keller.SPM.Communication.dll": {}
+        }
+      },
+      "Keller.SPM.ProcotolGeneration/1.0.0": {
+        "runtime": {
+          "Keller.SPM.ProcotolGeneration.dll": {}
+        }
+      },
+      "System.Data.SQLite/1.0.110.0": {
+        "runtime": {
+          "System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.110.0",
+            "fileVersion": "1.0.110.0"
+          }
+        }
+      },
+      "System.Data.SQLite.EF6/1.0.117.0": {
+        "runtime": {
+          "System.Data.SQLite.EF6.dll": {
+            "assemblyVersion": "1.0.117.0",
+            "fileVersion": "1.0.117.0"
+          }
+        }
+      },
+      "System.Data.SQLite.Linq/1.0.117.0": {
+        "runtime": {
+          "System.Data.SQLite.Linq.dll": {
+            "assemblyVersion": "1.0.117.0",
+            "fileVersion": "1.0.117.0"
+          }
+        }
+      },
+      "BouncyCastle.Crypto/1.8.3.0": {
+        "runtime": {
+          "BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.3.0",
+            "fileVersion": "1.8.18223.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AVG.ProductionProcess.FinalTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/5.0.0-preview.1.20120.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qZtZCon9IZIIn8YMJej8c7YNXf+8XfzISkQVUYNtIkFGvpIqjZhfoSrPf+5VADZYPISOB2y4F9u+kyu8FSSCBA==",
+      "path": "microsoft.netcore.platforms/5.0.0-preview.1.20120.5",
+      "hashPath": "microsoft.netcore.platforms.5.0.0-preview.1.20120.5.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/5.0.0-preview.1.20120.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pQTGQgp5NJ0/8i3QWSvGO4vSjUJxlXFdHXcoVAPr72Xeb4YCOcIgJFwH9BZKiDn2m1f0n/5WETvq4CXBhDYQWA==",
+      "path": "microsoft.win32.registry/5.0.0-preview.1.20120.5",
+      "hashPath": "microsoft.win32.registry.5.0.0-preview.1.20120.5.nupkg.sha512"
+    },
+    "runtime.linux-arm.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q/QpQjCombaKe0MxnTehzAvs0hNt8XPH8ILfqGhCJVdW63gHAoUD+ZdyofYLUvzoNYvGPra7dmSuiQnmPdJoxg==",
+      "path": "runtime.linux-arm.runtime.native.system.io.ports/5.0.0-preview.3.20214.6",
+      "hashPath": "runtime.linux-arm.runtime.native.system.io.ports.5.0.0-preview.3.20214.6.nupkg.sha512"
+    },
+    "runtime.linux-arm64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3GMa7GLThNVwanv+2JuUg83O3KBBOyd6AWiEKmBGrvpgHLjckSqteFihxPrIczIAOnlP+gsV/mfUJp4rVn+fnQ==",
+      "path": "runtime.linux-arm64.runtime.native.system.io.ports/5.0.0-preview.3.20214.6",
+      "hashPath": "runtime.linux-arm64.runtime.native.system.io.ports.5.0.0-preview.3.20214.6.nupkg.sha512"
+    },
+    "runtime.linux-x64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RNq2gS+1OvXn1NzUuc7RvKURUsvRZcH4cfxn+QIrg4D9VVEVNvk9T1PLslCBuILhhffunTr7O8THksrjhfMkAw==",
+      "path": "runtime.linux-x64.runtime.native.system.io.ports/5.0.0-preview.3.20214.6",
+      "hashPath": "runtime.linux-x64.runtime.native.system.io.ports.5.0.0-preview.3.20214.6.nupkg.sha512"
+    },
+    "runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qZfY9DksgxRjaL0+e7QgDFkUskPkSP7HJePx0RGbg80pE14cQHlbF9fHVQl9dZmIBn/SveV3HAXzII/v4p9W/Q==",
+      "path": "runtime.native.system.io.ports/5.0.0-preview.3.20214.6",
+      "hashPath": "runtime.native.system.io.ports.5.0.0-preview.3.20214.6.nupkg.sha512"
+    },
+    "runtime.osx-x64.runtime.native.System.IO.Ports/5.0.0-preview.3.20214.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5WabZIiTj4k+SGR7rrnKq/zS8Q/A+tZ1DQRbytd6pNDhJ+NU0HvUlCdfmCbA9Q9YLFAoJWj6Jbwb+8y7hS8RGA==",
+      "path": "runtime.osx-x64.runtime.native.system.io.ports/5.0.0-preview.3.20214.6",
+      "hashPath": "runtime.osx-x64.runtime.native.system.io.ports.5.0.0-preview.3.20214.6.nupkg.sha512"
+    },
+    "System.IO.Ports/5.0.0-preview.1.20120.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KNL8VBsJUppCTl+krMOEqHvLnWwB1vwdKQhhQ0RG+BxYWBWx19fl6XTMoqhnc1QU/0H65Id8hnMICopddKp+TA==",
+      "path": "system.io.ports/5.0.0-preview.1.20120.5",
+      "hashPath": "system.io.ports.5.0.0-preview.1.20120.5.nupkg.sha512"
+    },
+    "System.Security.AccessControl/5.0.0-preview.1.20120.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6OHd9I0EI2T1GA7sRqhhWf/2fiFqOKhBwXdokHI+SG2h/DkymI4L8Y3hpj46H2vVudrW7gYvmJEtooBelaE7qA==",
+      "path": "system.security.accesscontrol/5.0.0-preview.1.20120.5",
+      "hashPath": "system.security.accesscontrol.5.0.0-preview.1.20120.5.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/5.0.0-preview.1.20120.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xkh/ia4qKt6CXFbQV/HJy2CiwwQNt6qCVJm80THGCrTJEQc4s7FgF7tyLeZDE49KktVhoLyICDKvvjbq5C20Ow==",
+      "path": "system.security.principal.windows/5.0.0-preview.1.20120.5",
+      "hashPath": "system.security.principal.windows.5.0.0-preview.1.20120.5.nupkg.sha512"
+    },
+    "Keller.SPM.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Keller.SPM.ProcotolGeneration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SQLite/1.0.110.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SQLite.EF6/1.0.117.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SQLite.Linq/1.0.117.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle.Crypto/1.8.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

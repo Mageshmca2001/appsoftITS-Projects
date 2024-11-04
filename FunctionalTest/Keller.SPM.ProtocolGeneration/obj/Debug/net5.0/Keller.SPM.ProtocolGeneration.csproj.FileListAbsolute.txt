@@ -1,0 +1,147 @@
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\ref\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\Keller.SPM.ProtocolGeneration\obj\Debug\net5.0\Keller.SPM.ProtocolGeneration.pdb

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Keller.SPM.ProcotolGeneration/1.0.0": {
+        "dependencies": {
+          "BouncyCastle.Crypto": "1.8.3.0",
+          "Keller.SPM.Communication": "1.0.0.0"
+        },
+        "runtime": {
+          "Keller.SPM.ProcotolGeneration.dll": {}
+        }
+      },
+      "BouncyCastle.Crypto/1.8.3.0": {
+        "runtime": {
+          "BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.3.0",
+            "fileVersion": "1.8.18223.1"
+          }
+        }
+      },
+      "Keller.SPM.Communication/1.0.0.0": {
+        "runtime": {
+          "Keller.SPM.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Keller.SPM.ProcotolGeneration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle.Crypto/1.8.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Keller.SPM.Communication/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

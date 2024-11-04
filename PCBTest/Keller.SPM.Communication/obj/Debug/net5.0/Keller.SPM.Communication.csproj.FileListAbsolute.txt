@@ -1,0 +1,288 @@
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\ref\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\obj\Debug\net5.0\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\06-07-2024\V4 - Copy\PCBTest\Keller.SPM.Communication\bin\Debug\net5.0\ref\Keller.SPM.Communication.dll

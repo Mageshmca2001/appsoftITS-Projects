@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\AVG.ProductionProcess.FunctionalTest\\AVG.ProductionProcess.FunctionalTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\AVG.ProductionProcess.FunctionalTest\\AVG.ProductionProcess.FunctionalTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\AVG.ProductionProcess.FunctionalTest\\AVG.ProductionProcess.FunctionalTest.csproj",
+        "projectName": "AVG.ProductionProcess.FunctionalTest",
+        "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\AVG.ProductionProcess.FunctionalTest\\AVG.ProductionProcess.FunctionalTest.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\AVG.ProductionProcess.FunctionalTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj": {
+                "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj"
+              },
+              "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\Keller.SPM.ProtocolGeneration.csproj": {
+                "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\Keller.SPM.ProtocolGeneration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.9.45, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj",
+        "projectName": "Keller.SPM.Communication",
+        "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\Keller.SPM.ProtocolGeneration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\Keller.SPM.ProtocolGeneration.csproj",
+        "projectName": "Keller.SPM.ProtocolGeneration",
+        "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\Keller.SPM.ProtocolGeneration.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.ProtocolGeneration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj": {
+                "projectPath": "D:\\Vinishya\\Projects\\SmartMeter\\Vinishya_Development\\FinalProjects\\FunctionalTest\\Working\\FunctionalTest\\Keller.SPM.Communication\\Keller.SPM.Communication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

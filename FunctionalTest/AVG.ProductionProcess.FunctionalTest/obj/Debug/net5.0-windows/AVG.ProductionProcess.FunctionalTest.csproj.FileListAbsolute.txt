@@ -1,0 +1,570 @@
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE2\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.SerialCommunication.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.Form.resources
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Asp_core\DLMS(FunctionalTest)\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\FUNCTIONAL TEST\Nandhini\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\References\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\Functional\13-06-2024\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.LoginFrom.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.LoginFrom.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.LoginFrom.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\V3 - Copy\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.LoginFrom.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\FunctionalTest\Working\FunctionalTest - Volt\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Fonts.Fluent.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Foundation.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.UI.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.Xaml.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Uno.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\bin\Debug\net5.0-windows\Keller.SPM.ProtocolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.FunctionalForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.LoginFrom.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.FunctionalTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\FunctionalTest\Working\FunctionalTest\AVG.ProductionProcess.FunctionalTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.FunctionalTest.genruntimeconfig.cache

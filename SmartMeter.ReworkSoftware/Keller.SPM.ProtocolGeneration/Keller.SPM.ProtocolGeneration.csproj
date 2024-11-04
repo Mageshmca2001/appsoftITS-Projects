@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31487682-3505-4403-898D-5D9098A2E041}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Keller.SPM.ProtocolGeneration</RootNamespace>
+    <AssemblyName>Keller.SPM.ProtocolGeneration</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="crypto, Version=1.8.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.0\lib\net46\crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Keller.SPM.Communiaction">
+      <HintPath>..\Keller.SPM.Communiaction\bin\Debug\Keller.SPM.Communiaction.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.0.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.0.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithms\Aes.cs" />
+    <Compile Include="Algorithms\AESGCM.cs" />
+    <Compile Include="Algorithms\FCS.cs" />
+    <Compile Include="Common\ResponseValidation.cs" />
+    <Compile Include="Interfaces\IProcess.cs" />
+    <Compile Include="Models\ResponseCode.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protocol\Serial\AARQ.cs" />
+    <Compile Include="Protocol\Serial\ActionRequest.cs" />
+    <Compile Include="Protocol\Serial\CalibConstantAARQ.cs" />
+    <Compile Include="Protocol\Serial\CalibGetRequset.cs" />
+    <Compile Include="Protocol\Serial\ClassId.cs" />
+    <Compile Include="Protocol\Serial\ControlBytes.cs" />
+    <Compile Include="Protocol\Serial\CurrScalarUnit.cs" />
+    <Compile Include="Protocol\Serial\Disconnect.cs" />
+    <Compile Include="Protocol\Serial\EncryptData.cs" />
+    <Compile Include="Protocol\Serial\ErrorDetection.cs" />
+    <Compile Include="Protocol\Serial\FunctionalTestLogicalName.cs" />
+    <Compile Include="Protocol\Serial\GlobalkeyWrite.cs" />
+    <Compile Include="Protocol\Serial\HDLC.cs" />
+    <Compile Include="Protocol\Serial\HLSKeyWrite.cs" />
+    <Compile Include="Protocol\Serial\InstamtVoltLogicalName.cs" />
+    <Compile Include="Protocol\Serial\InstantCurrLogicalName.cs" />
+    <Compile Include="Protocol\Serial\InstantNeutralCurrLogicalName.cs" />
+    <Compile Include="Protocol\Serial\InstCurrScalar.cs" />
+    <Compile Include="Protocol\Serial\LogicalName.cs" />
+    <Compile Include="Protocol\Serial\NeutralCurrScalarUnit.cs" />
+    <Compile Include="Protocol\Serial\OBISCode.cs" />
+    <Compile Include="Protocol\Serial\OBISReadRequest.cs" />
+    <Compile Include="Protocol\Serial\ProtocolFlags.cs" />
+    <Compile Include="Protocol\Serial\PublicClientAARQ.cs" />
+    <Compile Include="Protocol\Serial\ReadFunctionalTest.cs" />
+    <Compile Include="Protocol\Serial\ReadSerialNo.cs" />
+    <Compile Include="Protocol\Serial\RequestTag.cs" />
+    <Compile Include="Protocol\Serial\RTCRead.cs" />
+    <Compile Include="Protocol\Serial\SecurityKeys.cs" />
+    <Compile Include="Protocol\Serial\SerialNumber.cs" />
+    <Compile Include="Protocol\Serial\SNRM.cs" />
+    <Compile Include="Protocol\Serial\VoltScalarUnit.cs" />
+    <Compile Include="ViewModels\CommonMV.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Protocol\TCP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

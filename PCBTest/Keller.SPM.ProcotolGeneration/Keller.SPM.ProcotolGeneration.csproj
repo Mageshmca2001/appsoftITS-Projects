@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>..\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Keller.SPM.Communication">
+      <HintPath>..\Keller.SPM.Communication\bin\Debug\net5.0\Keller.SPM.Communication.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Protocol\TCP\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,735 @@
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\DEVELOPMENT\KELLER\DLMS\SPM\AVG\Code\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\WorkingCopy\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\STAGE1\Ver1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+C:\Users\user\Desktop\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Nagarajan_16092023\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Ver 1.0.0.0\Ver 1.0.0.0\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+E:\Suryadharshini\PROJECTS\DLMS Calibration\AVG DLMS\PCB TEST\PCB Source\Source\Invocation(Ver 2.0.0.0)\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Exists\PCB\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Nandhini\PCB\SourceCode\InvocationCounter\Ver 1.0.0.3\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\UptoSNORTC_RW\31-05-2024\PCB\PCBTest - Copy (3)\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V3 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\PCB\26-06-2024\PCBTest - Copy\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\Working\FunctionalTest\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.AssemblyReference.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.LoginForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MainMaster.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.MasterForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Forms.UserForm.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.Properties.Resources.resources
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.GenerateResource.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.exe
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll.config
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.deps.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.runtimeconfig.dev.json
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\ref\AVG.ProductionProcess.PCBTest.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\System.Data.SQLite.Linq.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.Communication.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\bin\Debug\net5.0-windows\Keller.SPM.ProcotolGeneration.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.csproj.CopyComplete
+D:\Vinishya\Projects\SmartMeter\Vinishya\FinalProjects\PCB\Working\V4 - Copy\PCBTest\AVG.ProductionProcess.PCBTest\obj\Debug\net5.0-windows\AVG.ProductionProcess.PCBTest.genruntimeconfig.cache

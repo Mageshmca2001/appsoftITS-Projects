@@ -1,0 +1,6 @@
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\bin\Debug\Keller.SPM.Communiaction.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\bin\Debug\Keller.SPM.Communiaction.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\obj\Debug\Keller.SPM.Communication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\obj\Debug\Keller.SPM.Communiaction.dll
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\obj\Debug\Keller.SPM.Communiaction.pdb
+D:\Vinishya\Projects\SmartMeter\Vinishya_Development\FinalProjects\ReworkSoftware\Working\SmartMeter.ReworkSoftware\Keller.SPM.Communiaction\obj\Debug\Keller.SPM.Communication.csproj.AssemblyReference.cache

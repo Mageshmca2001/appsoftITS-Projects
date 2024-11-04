@@ -1,0 +1,12 @@
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\Keller.SPM.SerialCommunication.deps.json
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\Keller.SPM.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\ref\Keller.SPM.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\bin\Debug\net5.0\Keller.SPM.SerialCommunication.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.AssemblyInfoInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.AssemblyInfo.cs
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.csproj.CoreCompileInputs.cache
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\ref\Keller.SPM.SerialCommunication.dll
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.pdb
+D:\Vinishya\Projects\SmartMeter\DLMS\AVG\WorkingCopy\STAGE3\Ver1.0.0.0\FunctionalTest\AVG.ProductionSoftware.SerialCommunication\obj\Debug\net5.0\Keller.SPM.SerialCommunication.csproj.AssemblyReference.cache
